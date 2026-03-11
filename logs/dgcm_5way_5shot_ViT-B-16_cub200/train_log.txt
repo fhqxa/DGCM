@@ -1,0 +1,70 @@
+Experiment started at 2025-12-12 12:44:08.246055
+=========================================
+Time: 12:47:46 | Iter: 100/6000 | Loss: 1.1465 | Acc: 0.9720 | LR: 0.000100 | Time/100iter: 218.49s | ETA: 3:34:50
+Time: 12:51:16 | Iter: 200/6000 | Loss: 1.0905 | Acc: 0.9738 | LR: 0.000100 | Time/100iter: 209.56s | ETA: 3:22:34
+Time: 12:54:46 | Iter: 300/6000 | Loss: 0.9822 | Acc: 0.9748 | LR: 0.000100 | Time/100iter: 209.60s | ETA: 3:19:07
+Time: 12:58:15 | Iter: 400/6000 | Loss: 0.8300 | Acc: 0.9761 | LR: 0.000100 | Time/100iter: 209.56s | ETA: 3:15:35
+Time: 13:01:45 | Iter: 500/6000 | Loss: 0.7030 | Acc: 0.9769 | LR: 0.000100 | Time/100iter: 209.56s | ETA: 3:12:05
+Time: 13:05:14 | Iter: 600/6000 | Loss: 0.6031 | Acc: 0.9775 | LR: 0.000100 | Time/100iter: 209.58s | ETA: 3:08:37
+Time: 13:08:44 | Iter: 700/6000 | Loss: 0.5240 | Acc: 0.9771 | LR: 0.000100 | Time/100iter: 209.56s | ETA: 3:05:06
+Time: 13:12:13 | Iter: 800/6000 | Loss: 0.4604 | Acc: 0.9804 | LR: 0.000100 | Time/100iter: 209.57s | ETA: 3:01:37
+Time: 13:15:43 | Iter: 900/6000 | Loss: 0.4155 | Acc: 0.9779 | LR: 0.000100 | Time/100iter: 209.57s | ETA: 2:58:08
+Time: 13:19:13 | Iter: 1000/6000 | Loss: 0.3843 | Acc: 0.9777 | LR: 0.000100 | Time/100iter: 209.53s | ETA: 2:54:36
+--- Validation at iteration 1000 | Avg Acc: 0.9821 ---
+Time: 13:26:24 | Iter: 1100/6000 | Loss: 0.3534 | Acc: 0.9782 | LR: 0.000100 | Time/100iter: 431.03s | ETA: 5:52:00
+Time: 13:29:53 | Iter: 1200/6000 | Loss: 0.3309 | Acc: 0.9780 | LR: 0.000100 | Time/100iter: 209.55s | ETA: 2:47:38
+Time: 13:33:23 | Iter: 1300/6000 | Loss: 0.3084 | Acc: 0.9803 | LR: 0.000100 | Time/100iter: 209.58s | ETA: 2:44:10
+Time: 13:36:52 | Iter: 1400/6000 | Loss: 0.2969 | Acc: 0.9776 | LR: 0.000100 | Time/100iter: 209.56s | ETA: 2:40:39
+Time: 13:40:22 | Iter: 1500/6000 | Loss: 0.2830 | Acc: 0.9799 | LR: 0.000100 | Time/100iter: 209.49s | ETA: 2:37:07
+Time: 13:43:51 | Iter: 1600/6000 | Loss: 0.2696 | Acc: 0.9793 | LR: 0.000100 | Time/100iter: 209.57s | ETA: 2:33:41
+Time: 13:47:21 | Iter: 1700/6000 | Loss: 0.2546 | Acc: 0.9796 | LR: 0.000100 | Time/100iter: 209.53s | ETA: 2:30:09
+Time: 13:50:50 | Iter: 1800/6000 | Loss: 0.2470 | Acc: 0.9803 | LR: 0.000100 | Time/100iter: 209.50s | ETA: 2:26:39
+Time: 13:54:20 | Iter: 1900/6000 | Loss: 0.2342 | Acc: 0.9799 | LR: 0.000100 | Time/100iter: 209.36s | ETA: 2:23:03
+Time: 13:57:49 | Iter: 2000/6000 | Loss: 0.2262 | Acc: 0.9805 | LR: 0.000100 | Time/100iter: 209.37s | ETA: 2:19:34
+--- Validation at iteration 2000 | Avg Acc: 0.9834 ---
+Time: 14:05:00 | Iter: 2100/6000 | Loss: 0.2174 | Acc: 0.9806 | LR: 0.000100 | Time/100iter: 430.66s | ETA: 4:39:55
+Time: 14:08:29 | Iter: 2200/6000 | Loss: 0.2152 | Acc: 0.9796 | LR: 0.000100 | Time/100iter: 209.48s | ETA: 2:12:40
+Time: 14:11:59 | Iter: 2300/6000 | Loss: 0.2144 | Acc: 0.9803 | LR: 0.000100 | Time/100iter: 209.49s | ETA: 2:09:11
+Time: 14:15:28 | Iter: 2400/6000 | Loss: 0.2034 | Acc: 0.9786 | LR: 0.000100 | Time/100iter: 209.44s | ETA: 2:05:40
+Time: 14:18:58 | Iter: 2500/6000 | Loss: 0.1976 | Acc: 0.9790 | LR: 0.000100 | Time/100iter: 209.44s | ETA: 2:02:10
+Time: 14:22:27 | Iter: 2600/6000 | Loss: 0.1866 | Acc: 0.9813 | LR: 0.000100 | Time/100iter: 209.46s | ETA: 1:58:41
+Time: 14:25:57 | Iter: 2700/6000 | Loss: 0.1890 | Acc: 0.9797 | LR: 0.000100 | Time/100iter: 209.48s | ETA: 1:55:12
+Time: 14:29:26 | Iter: 2800/6000 | Loss: 0.1786 | Acc: 0.9814 | LR: 0.000100 | Time/100iter: 209.55s | ETA: 1:51:45
+Time: 14:32:56 | Iter: 2900/6000 | Loss: 0.1712 | Acc: 0.9827 | LR: 0.000100 | Time/100iter: 209.56s | ETA: 1:48:16
+Time: 14:36:25 | Iter: 3000/6000 | Loss: 0.1756 | Acc: 0.9802 | LR: 0.000050 | Time/100iter: 209.56s | ETA: 1:44:46
+--- Validation at iteration 3000 | Avg Acc: 0.9836 ---
+Time: 14:43:35 | Iter: 3100/6000 | Loss: 0.1621 | Acc: 0.9823 | LR: 0.000050 | Time/100iter: 430.28s | ETA: 3:27:58
+Time: 14:47:05 | Iter: 3200/6000 | Loss: 0.1648 | Acc: 0.9809 | LR: 0.000050 | Time/100iter: 209.60s | ETA: 1:37:48
+Time: 14:50:35 | Iter: 3300/6000 | Loss: 0.1590 | Acc: 0.9818 | LR: 0.000050 | Time/100iter: 209.60s | ETA: 1:34:19
+Time: 14:54:04 | Iter: 3400/6000 | Loss: 0.1603 | Acc: 0.9800 | LR: 0.000050 | Time/100iter: 209.48s | ETA: 1:30:46
+Time: 14:57:34 | Iter: 3500/6000 | Loss: 0.1560 | Acc: 0.9807 | LR: 0.000050 | Time/100iter: 209.56s | ETA: 1:27:19
+Time: 15:01:03 | Iter: 3600/6000 | Loss: 0.1554 | Acc: 0.9819 | LR: 0.000050 | Time/100iter: 209.57s | ETA: 1:23:49
+Time: 15:04:33 | Iter: 3700/6000 | Loss: 0.1520 | Acc: 0.9808 | LR: 0.000050 | Time/100iter: 209.60s | ETA: 1:20:20
+Time: 15:08:02 | Iter: 3800/6000 | Loss: 0.1504 | Acc: 0.9823 | LR: 0.000050 | Time/100iter: 209.55s | ETA: 1:16:50
+Time: 15:11:32 | Iter: 3900/6000 | Loss: 0.1500 | Acc: 0.9810 | LR: 0.000050 | Time/100iter: 209.56s | ETA: 1:13:20
+Time: 15:15:02 | Iter: 4000/6000 | Loss: 0.1506 | Acc: 0.9818 | LR: 0.000050 | Time/100iter: 209.62s | ETA: 1:09:52
+--- Validation at iteration 4000 | Avg Acc: 0.9846 ---
+Time: 15:22:13 | Iter: 4100/6000 | Loss: 0.1519 | Acc: 0.9802 | LR: 0.000050 | Time/100iter: 431.09s | ETA: 2:16:30
+Time: 15:25:42 | Iter: 4200/6000 | Loss: 0.1418 | Acc: 0.9822 | LR: 0.000050 | Time/100iter: 209.53s | ETA: 1:02:51
+Time: 15:29:12 | Iter: 4300/6000 | Loss: 0.1474 | Acc: 0.9801 | LR: 0.000050 | Time/100iter: 209.53s | ETA: 0:59:21
+Time: 15:32:41 | Iter: 4400/6000 | Loss: 0.1384 | Acc: 0.9817 | LR: 0.000050 | Time/100iter: 209.54s | ETA: 0:55:52
+Time: 15:36:11 | Iter: 4500/6000 | Loss: 0.1364 | Acc: 0.9818 | LR: 0.000050 | Time/100iter: 209.62s | ETA: 0:52:24
+Time: 15:39:41 | Iter: 4600/6000 | Loss: 0.1362 | Acc: 0.9821 | LR: 0.000050 | Time/100iter: 209.58s | ETA: 0:48:54
+Time: 15:43:10 | Iter: 4700/6000 | Loss: 0.1364 | Acc: 0.9806 | LR: 0.000050 | Time/100iter: 209.55s | ETA: 0:45:24
+Time: 15:46:40 | Iter: 4800/6000 | Loss: 0.1305 | Acc: 0.9826 | LR: 0.000050 | Time/100iter: 209.53s | ETA: 0:41:54
+Time: 15:50:09 | Iter: 4900/6000 | Loss: 0.1305 | Acc: 0.9811 | LR: 0.000050 | Time/100iter: 209.60s | ETA: 0:38:25
+Time: 15:53:39 | Iter: 5000/6000 | Loss: 0.1291 | Acc: 0.9815 | LR: 0.000050 | Time/100iter: 209.59s | ETA: 0:34:55
+--- Validation at iteration 5000 | Avg Acc: 0.9833 ---
+Time: 16:00:48 | Iter: 5100/6000 | Loss: 0.1283 | Acc: 0.9805 | LR: 0.000050 | Time/100iter: 429.66s | ETA: 1:04:26
+Time: 16:04:18 | Iter: 5200/6000 | Loss: 0.1226 | Acc: 0.9824 | LR: 0.000050 | Time/100iter: 209.57s | ETA: 0:27:56
+Time: 16:07:48 | Iter: 5300/6000 | Loss: 0.1202 | Acc: 0.9833 | LR: 0.000050 | Time/100iter: 209.55s | ETA: 0:24:26
+Time: 16:11:17 | Iter: 5400/6000 | Loss: 0.1241 | Acc: 0.9805 | LR: 0.000050 | Time/100iter: 209.62s | ETA: 0:20:57
+Time: 16:14:47 | Iter: 5500/6000 | Loss: 0.1210 | Acc: 0.9819 | LR: 0.000050 | Time/100iter: 209.53s | ETA: 0:17:27
+Time: 16:18:16 | Iter: 5600/6000 | Loss: 0.1191 | Acc: 0.9814 | LR: 0.000050 | Time/100iter: 209.62s | ETA: 0:13:58
+Time: 16:21:46 | Iter: 5700/6000 | Loss: 0.1159 | Acc: 0.9826 | LR: 0.000050 | Time/100iter: 209.66s | ETA: 0:10:28
+Time: 16:25:16 | Iter: 5800/6000 | Loss: 0.1155 | Acc: 0.9821 | LR: 0.000050 | Time/100iter: 209.56s | ETA: 0:06:59
+Time: 16:28:45 | Iter: 5900/6000 | Loss: 0.1154 | Acc: 0.9822 | LR: 0.000050 | Time/100iter: 209.58s | ETA: 0:03:29
+Time: 16:32:15 | Iter: 6000/6000 | Loss: 0.1125 | Acc: 0.9822 | LR: 0.000025 | Time/100iter: 209.59s | ETA: 0:00:00
+--- Validation at iteration 6000 | Avg Acc: 0.9819 ---
+=========================================
+Final Test Results: Avg Acc: 0.9787, 95% CI: 0.0021
