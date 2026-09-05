@@ -5,7 +5,7 @@
 Few-shot learning (FSL) has emerged as a promising paradigm for addressing data scarcity in deep learning. Graph neural networks (GNNs) have demonstrated significant potential in FSL by capturing topological relationships among scarce samples to facilitate effective feature propagation and information aggregation. However, existing GNN-based models are mostly limited to a single visual modality, overlooking the inherent modal gap between visual distributions and semantic embeddings. To address this issue, a dual graph neural network with cross-modal alignment (DGCM) is proposed to effectively bridge this modal gap. First, dual GNNs comprising a visual-rectified semantic graph (VRSG) and a semantic-calibrated visual graph (SCVG) are constructed. The VRSG is used to model high-level class semantic distributions, while the SCVG captures underlying visual instance features and provides the topological foundation for cross-modal feature interaction and deep alignment. Second, visual-rectified and semantic-calibrated cross-modal interaction mechanisms are designed for the dual graphs. These mechanisms enable semantic priors to dynamically adapt to visual features and generate task-specific prototypes for each few-shot task. The resulting prototypes then guide the visual features toward semantic alignment. Extensive experiments on four benchmark datasets demonstrate the superiority of DGCM. The proposed model outperforms existing state-of-the-art methods by 1.58% and 1.93% in the one- and five-shot settings, respectively
 
 <p align='center'>
-  <img src='./figure/model.pdf' width="800px">
+  <img src='./figure/dgcm.png' width="800px">
 </p>
 
 ## 📂 Dataset Preparation
